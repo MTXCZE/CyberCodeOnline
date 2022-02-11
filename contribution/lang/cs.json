@@ -2008,7 +2008,7 @@
  	 	 	 	"eng": "Exp multiplier"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Zvyšuje zkušenosti, které obdržíte",
+ 	 	 	 	"trans": "Zvyšuje zkušenosti, které získáte",
  	 	 	 	"eng": "Increase EXP you receive"
  	 	 	}
  	 	},
@@ -2383,7 +2383,7 @@
  	 	 	 	 	"unit",
  	 	 	 	 	"bonus"
  	 	 	 	],
- 	 	 	 	"trans": "Obdržíte ${unit} Jednotek (${bonus} navíc)",
+ 	 	 	 	"trans": "Získáte ${unit} Jednotek (${bonus} navíc)",
  	 	 	 	"eng": "Receive ${unit} Unit (${bonus} bonus)"
  	 	 	}
  	 	},
@@ -2409,7 +2409,7 @@
  	 	 	 	 	"unit",
  	 	 	 	 	"bonus"
  	 	 	 	],
- 	 	 	 	"trans": "Obdržíte ${unit} Jednotek (${bonus} navíc)",
+ 	 	 	 	"trans": "Získáte ${unit} Jednotek (${bonus} navíc)",
  	 	 	 	"eng": "Receive ${unit} Unit (${bonus} bonus)"
  	 	 	}
  	 	},
@@ -2426,7 +2426,7 @@
  	 	 	 	 	"unit",
  	 	 	 	 	"bonus"
  	 	 	 	],
- 	 	 	 	"trans": "Obdržíte ${unit} Jednotek (${bonus} navíc)",
+ 	 	 	 	"trans": "Získáte ${unit} Jednotek (${bonus} navíc)",
  	 	 	 	"eng": "Receive ${unit} Unit (${bonus} bonus)"
  	 	 	}
  	 	},
@@ -2443,7 +2443,7 @@
  	 	 	 	 	"unit",
  	 	 	 	 	"bonus"
  	 	 	 	],
- 	 	 	 	"trans": "Obdržíte ${unit} Jednotek (${bonus} navíc)",
+ 	 	 	 	"trans": "Získáte ${unit} Jednotek (${bonus} navíc)",
  	 	 	 	"eng": "Receive ${unit} Unit (${bonus} bonus)"
  	 	 	}
  	 	},
@@ -2460,7 +2460,7 @@
  	 	 	 	 	"unit",
  	 	 	 	 	"bonus"
  	 	 	 	],
- 	 	 	 	"trans": "Obdržíte ${unit} Jednotek (${bonus} navíc)",
+ 	 	 	 	"trans": "Získáte ${unit} Jednotek (${bonus} navíc)",
  	 	 	 	"eng": "Receive ${unit} Unit (${bonus} bonus)"
  	 	 	}
  	 	},
@@ -2477,7 +2477,7 @@
  	 	 	 	 	"unit",
  	 	 	 	 	"bonus"
  	 	 	 	],
- 	 	 	 	"trans": "Obdržíte ${unit} Jednotek (${bonus} navíc)",
+ 	 	 	 	"trans": "Získáte ${unit} Jednotek (${bonus} navíc)",
  	 	 	 	"eng": "Receive ${unit} Unit (${bonus} bonus)"
  	 	 	}
  	 	},
@@ -2494,7 +2494,7 @@
  	 	 	 	 	"unit",
  	 	 	 	 	"bonus"
  	 	 	 	],
- 	 	 	 	"trans": "Obdržíte ${unit} Jednotek (${bonus} navíc)",
+ 	 	 	 	"trans": "Získáte ${unit} Jednotek (${bonus} navíc)",
  	 	 	 	"eng": "Receive ${unit} Unit (${bonus} bonus)"
  	 	 	}
  	 	},
@@ -2511,7 +2511,7 @@
  	 	 	 	 	"unit",
  	 	 	 	 	"bonus"
  	 	 	 	],
- 	 	 	 	"trans": "Obdržíte ${unit} Jednotek (${bonus} navíc)",
+ 	 	 	 	"trans": "Získáte ${unit} Jednotek (${bonus} navíc)",
  	 	 	 	"eng": "Receive ${unit} Unit (${bonus} bonus)"
  	 	 	}
  	 	}
@@ -2538,7 +2538,7 @@
  	 	 	}
  	 	},
  	 	"receive": {
- 	 	 	"trans": "Obdržíte",
+ 	 	 	"trans": "Získáte",
  	 	 	"eng": "Receive"
  	 	},
  	 	"purchasing": {
@@ -3372,7 +3372,7 @@
  	 	 	 	"eng": "Chat exploit transmitter [1337]"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Modul Exploitu, který přeruší globální chatové balíčky a upraví je, čímž provede útok Muž-Uprostřed. \r\n         ransformuje všechny rozhovory v globálním chatu na L33T Ř34. Ovlivní všechny hráče po dobu 10 minut.",
+ 	 	 	 	"trans": "Modul Exploitu, který přeruší globální chatové balíčky a upraví je, čímž provede útok Muž-Uprostřed. \r\n         Transformuje všechny rozhovory v globálním chatu na L33T Ř34. Ovlivní všechny hráče po dobu 10 minut.",
  	 	 	 	"eng": "A exploit module that intercepts global chat packages and modifies it, performing Man-In-The-Middle attack.\r\n        Transforms all speech at global chat to l33t Sp34k. This effects all players for 10 minutes"
  	 	 	}
  	 	},
@@ -4121,11 +4121,11 @@
  	 	 	},
  	 	 	"exp": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Obdržet zk",
+ 	 	 	 	 	"trans": "Získejte zk",
  	 	 	 	 	"eng": "Receive exp"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Obdržet zkušenosti z jakéhokoliv zdroje",
+ 	 	 	 	 	"trans": "Získejte zkušenosti z jakéhokoliv zdroje",
  	 	 	 	 	"eng": "Receive exp from any source"
  	 	 	 	}
  	 	 	},
